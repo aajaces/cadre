@@ -54,7 +54,7 @@
 			.range([0, width])
 			.nice();
 
-		const yScale = d3.scaleLinear().domain([50, 100]).range([height, 0]);
+		const yScale = d3.scaleLinear().domain([65, 100]).range([height, 0]);
 
 		// Add background
 		g.append("rect")
