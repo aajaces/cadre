@@ -510,3 +510,8 @@ model_costs:
   - model_id: "grok-4"
     cost_per_1m_input_tokens: 3.000
     cost_per_1m_output_tokens: 15.000
+
+  # Magisterium Models
+  - model_id: "magisterium-1"
+    cost_per_1m_input_tokens: 0.500
+    cost_per_1m_output_tokens: 2.000
