@@ -175,13 +175,12 @@
 			<p
 				class="text-md max-w-3xl mx-auto mb-8 text-rose-800 italic font-light"
 			>
-				Alpha version: not for production use—a technical preview to
-				establish eval methodology
+				Status: Currently taken down. Working on a new version.
 			</p>
 
 			<!-- Links Section -->
 			<div class="flex items-center justify-center gap-4 mb-12 flex-wrap">
-				<a
+				<!-- <a
 					href="https://github.com/aajaces/cadre"
 					target="_blank"
 					class="inline-flex items-center gap-1.5 px-4 py-2 text-sm bg-black text-white rounded-lg hover:bg-gray-800 transition-colors no-underline font-light"
@@ -189,7 +188,7 @@
 					<iconify-icon icon="ri:github-fill" class="text-base"
 					></iconify-icon>
 					GitHub
-				</a>
+				</a> -->
 				<!-- Paper button temporarily commented out
 				<button
 					onclick={() =>
@@ -203,20 +202,19 @@
 					Paper
 				</button>
 				-->
-				<a
+				<!-- <a
 					href="/explore"
 					class="inline-flex items-center gap-1.5 px-4 py-2 text-sm text-black rounded-lg hover:bg-black hover:text-white transition-colors no-underline font-light"
 				>
 					<iconify-icon icon="ri:search-line" class="text-base"
 					></iconify-icon>
 					Explore Results
-				</a>
+				</a> -->
 			</div>
 		</div>
 	</section>
-
+<!-- 
 	<main class="max-w-5xl mx-auto px-6 py-8 pb-12">
-		<!-- About Section -->
 		<section id="about" class="mb-12">
 			<h2>About CADRE</h2>
 			<div class="space-y-3">
@@ -254,7 +252,6 @@
 			</div>
 		</section>
 
-		<!-- Leaderboard Section -->
 		<section id="leaderboard" class="mb-12">
 			<h2>Model Leaderboard</h2>
 
@@ -341,7 +338,6 @@
 			{/if}
 		</section>
 
-		<!-- Cost / Catholic Analysis -->
 		<section id="cost-performance" class="mb-12">
 			<h2>Cost / Catholic Analysis</h2>
 			<div class="space-y-4">
@@ -369,7 +365,6 @@
 			</div>
 		</section>
 
-		<!-- Methodology Section -->
 		<section id="methodology" class="mb-12">
 			<h2>Methodology</h2>
 			<div class="space-y-3">
@@ -409,7 +404,6 @@
 			</div>
 		</section>
 
-		<!-- Roadmap Section -->
 		<section id="roadmap" class="mb-12">
 			<h2>Roadmap</h2>
 			<div class="roadmap-timeline">
@@ -474,7 +468,6 @@
 			</div>
 		</section>
 
-		<!-- Footer -->
 		<footer class="pt-8 mt-16 text-center">
 			<p class="text-gray-600">
 				CADRE is an open initiative to analyze and evaluate the accuracy
@@ -488,7 +481,7 @@
 		</footer>
 	</main>
 </div>
-
+ -->
 <style>
 	/* Additional component-specific styles */
 	section {
