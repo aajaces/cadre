@@ -213,7 +213,8 @@
 			</div>
 		</div>
 	</section>
-<!-- 
+	<!-- 
+
 	<main class="max-w-5xl mx-auto px-6 py-8 pb-12">
 		<section id="about" class="mb-12">
 			<h2>About CADRE</h2>
@@ -479,9 +480,9 @@
 				GitHub repository.
 			</p>
 		</footer>
-	</main>
+	</main> -->
 </div>
- -->
+
 <style>
 	/* Additional component-specific styles */
 	section {
